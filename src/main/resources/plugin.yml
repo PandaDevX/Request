@@ -1,0 +1,4 @@
+name: Request
+version: ${project.version}
+main: com.redspeaks.request.Request
+api-version: 1.16
